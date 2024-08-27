@@ -1,4 +1,4 @@
-<h1 align="center"> Encriptador-de-texto </h1>
+<h1 align="center"> Encriptador de texto </h1>
 
 ## ✏️ Descripción 
 Este proyecto es un encriptador y desencriptador de texto basado en reglas específicas previamente establecidas. Permite a los usuarios cifrar y descifrar mensajes de manera sencilla, asegurando la confidencialidad de la información.
